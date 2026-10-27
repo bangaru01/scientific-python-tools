@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.chk
+*.rwf
+*.fchk
+*.log
+*.out
+*.wfn
+*.gbw
+.env
+*.zip
+.DS_Store
